@@ -4,8 +4,8 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Nebbys Kasm Images',
+    description: 'My Custom Kasm Images.',
     icon: '/img/logo.svg',
     listUrl: 'https://nebulahhh.github.io/kasm-registry',
     contactUrl: 'https://kasmweb.com/support',
